@@ -5,7 +5,7 @@ date: "8-9 de octubre de 2015"
 output:
   rmarkdown::tufte_handout:
     highlight: zenburn
-    keep_tex: true
+    keep_tex: false
 ---
 
 # ¿Qué es el PLN?
@@ -61,7 +61,7 @@ De este modo, podemos identificar algunas de las tareas más comunes del área:
 
 ## Problemas resueltos y cuestiones abiertas
 
-![Language Technologies](img/langtech-progress.png)
+![Language Technologies](../img/langtech-progress.png)
 
 
 # ¿Por qué es tan difícil el PLN?
@@ -81,7 +81,7 @@ Esta ambigüedad existe a varios niveles:
 - ambigüedad de discurso: correferencia, resolución de anáforas
 
 
-![Language Technologies](img/nlp-difficulties.png)
+![Language Technologies](../img/nlp-difficulties.png)
 
 
 Según la ACL (*Association for Computational Linguistics*): *Computational Linguistics, or Natural Language Processing (NLP), is not a new field*.\footnote{http://www.aclweb.org/aclwiki/index.php
@@ -91,5 +91,5 @@ Según la ACL (*Association for Computational Linguistics*): *Computational Ling
 Según xkcd,\footnote{http://www.xkcd.org/114/} los lingüistas computacionales han vivido muy bien hasta ahora vendiendo motos, así que no se merecen más que nos metamos con ellos :-) \footnote{http://www.explainxkcd.com/wiki/index.php/
 114:\_Computational\_Linguists}
 
-![Computational Linguistics](img/xkcd_cl.png)
+![Computational Linguistics](../img/xkcd_cl.png)
 
