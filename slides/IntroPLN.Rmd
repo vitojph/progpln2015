@@ -1,10 +1,10 @@
 ---
 title: "Introducción al PLN | ProgPLN"
 author: "Víctor Peinado <v.peinado@filol.ucm.es>"
-date: "8-9 de octubre de 2015"
+date: "8-14 de octubre de 2015"
 output:
   rmarkdown::tufte_handout:
-    highlight: zenburn
+    highlight: pygments
     keep_tex: false
 ---
 
@@ -29,7 +29,7 @@ Una buena manera de conocer los temas que trata un área de investigación es re
 
 - EMNLP 2015: *call for papers*\footnote{http://www.emnlp2015.org/call.html} y programa\footnote{http://www.emnlp2015.org/program.html}
 
-- COLING 2014: *call for papers*\footnote{http://www.coling-2014.org/call-for-papers.php} y programa\footnote{http://www.coling-2014.org/schedule.php}
+- COLING 2014: lista de artículos\footnote{http://anthology.aclweb.org/C/C14/}
 
 - SEPLN 2015: *call for papers*\footnote{http://gplsi.dlsi.ua.es/sepln15/es/2-convocatoria-de-comunicaciones} y programa\footnote{http://gplsi.dlsi.ua.es/sepln15/es/node/52}
 
