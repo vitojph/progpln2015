@@ -1,7 +1,7 @@
 ---
 title: "Shell de Unix | ProgPLN"
 author: "Víctor Peinado <v.peinado@filol.ucm.es>"
-date: "16-22 de octubre de 2015"
+date: "16-23 de octubre de 2015"
 output:
   rmarkdown::tufte_handout:
     highlight: pygments
