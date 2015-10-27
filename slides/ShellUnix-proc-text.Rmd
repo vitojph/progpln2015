@@ -1,7 +1,7 @@
 ---
 title: "Procesamiento básico de texto en Unix | ProgPLN"
 author: "Víctor Peinado <v.peinado@filol.ucm.es>"
-date: "23-30 de octubre de 2015"
+date: "29-30 de octubre de 2015"
 output:
   rmarkdown::tufte_handout:
     highlight: pygments
