@@ -1,7 +1,7 @@
 ---
 title: "Expresiones regulares | ProgPLN"
 author: "Víctor Peinado <v.peinado@filol.ucm.es>"
-date: "5-6 de noviembre de 2015"
+date: "6-12 de noviembre de 2015"
 output:
   rmarkdown::tufte_handout:
     highlight: pygments
